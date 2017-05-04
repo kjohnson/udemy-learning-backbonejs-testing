@@ -1,4 +1,5 @@
 describe("The function", function() {
+    var result;
 
     it("should return true.", function() {
         result = isTrue(true);
